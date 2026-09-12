@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "game": "Pokemon Unbound",
+  "dataVersion": "latest-source-import",
+  "pokemon": [{"id": 1, "name": "Bulbasaur", "forms": [], "types": [], "abilities": [], "stats": {}, "moves": [], "evolutions": []}],
+  "locations": [{"id": "route-1", "name": "Route 1", "region": "Borrius", "mapAsset": "maps/route-1.webp", "encounters": [{"pokemonId": 1, "method": "grass", "minLevel": 1, "maxLevel": 5, "rate": null, "conditions": []}]}]
+}
